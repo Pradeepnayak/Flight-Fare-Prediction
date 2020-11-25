@@ -30,5 +30,5 @@ Additional_Info: Additional information about the flight
 Price: The price of the ticket
 
 ## Web app screenshot:
-![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/SearchImage.png)<br/>
-![alt text](https://github.com/Pradeepnayak/Movie-Recommendation-Webapp-With-Sentiment-Analysis/blob/main/static/SearchImage.png)<br/>
+![alt text](https://github.com/Pradeepnayak/Flight-Fare-Prediction/blob/main/templates/screenshot1.png)<br/>
+![alt text](https://github.com/Pradeepnayak/Flight-Fare-Prediction/blob/main/templates/screenshot2.png)<br/>
