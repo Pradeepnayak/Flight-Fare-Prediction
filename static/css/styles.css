@@ -1,0 +1,19 @@
+body {
+
+    text-align: center;
+    background: url(image.jpg);
+}
+
+.navbar {
+    background-color: #606a00;
+    text-align:center;
+    display:block;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
